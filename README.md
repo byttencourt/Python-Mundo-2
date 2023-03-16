@@ -4,14 +4,14 @@
 
 
 # Descrição
-Exercicios e desafios do Curso Python 3
+Continuação dos Exercicios e desafios do Curso Python 3. Os desafios de 1 a 35 estão no mundo 1.
 
 # Características
 Ministrado por Gustavo Guanabara o curso foi realizado através do portal Estudonauta.
 Durante o curso foram abordados os seguintes temas:
 - Condições Aninhadas.
 - Estruturas de Repetição for.
-- Estruturas de Repetição wire.
+- Estruturas de Repetição while.
 
 
 # Screenshots
