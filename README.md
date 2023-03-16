@@ -4,7 +4,7 @@
 
 
 # Descrição
-Continuação dos Exercicios e desafios do Curso Python 3. Os desafios de 1 a 35 estão em [Python - Mundo 1] (https://github.com/byttencourt/Python-Mundo-1).
+Continuação dos Exercicios e desafios do Curso Python 3. Os desafios de 1 a 35 estão em [Python - Mundo 1](https://github.com/byttencourt/Python-Mundo-1).
 
 # Características
 Ministrado por Gustavo Guanabara o curso foi realizado através do portal Estudonauta.
