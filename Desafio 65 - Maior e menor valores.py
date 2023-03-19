@@ -14,7 +14,7 @@ while r in 'Ss':
     c += 1
     soma += n
     r = str(input('Deseja continuar? [S/N]: ')).upper()
-print('A média entre os {} números digitados é {}'.format(c, soma/c))
-print('o maior valor digitado é {} e o menor valor digitado é {}.'.format(maior, menor))
+print(f'A média entre os {c} números digitados é {soma/c}')
+print(f'o maior valor digitado é {maior} e o menor valor digitado é {menor}.')
 
 
