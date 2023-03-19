@@ -3,7 +3,7 @@ menor = 0
 maior = 0
 soma = 0
 r = 's'
-while r != 'N':
+while r in 'Ss':
     n = int(input('Digite um número: '))
     if menor == 0:
         menor = n
