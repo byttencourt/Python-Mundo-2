@@ -16,7 +16,7 @@ Durante o curso foram abordados os seguintes temas:
 
 # Screenshots
  <img src="https://i.imgur.com/jAvEwm1.png"> <img src="https://i.imgur.com/J3R6HuX.png">
- <img src="https://i.imgur.com/LG8oilX.png"> <img src="https://i.imgur.com/YpjqgY3.png">
+ <img src="https://i.imgur.com/67eE61a.png"> <img src="https://i.imgur.com/YpjqgY3.png">
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
        
